@@ -1,0 +1,51 @@
+Process,,Tools,Duration
+Requirements Gathering,business requirements,,1 Day
+,user requirements,,
+,funtional requirements,,
+,data requirements,,
+,reporting requirements,,
+UX Design,User Research,Interviews,4 hours
+,Content Strategy,Brainstorming,2 hours
+,Information Architecture,Card Sorting,2 hours
+UI Design,Wireframing,?,1 Day
+,Visual Design,Adobe XD,1 Day
+,Interaction Design,?,2 hours
+Frontend Development,Login Page,"HTML, CSS, JavaScript, React.js",1 Week
+ ,Admin Page,, 
+,Dashboard,, 
+,Register Student,, 
+,View Students,, 
+,Edit Student,, 
+,Add Teacher,, 
+,View Teachers,, 
+,Edit Teacher,, 
+,View + Download Modules,, 
+,Attendance Check-in,, 
+,View Attendance Roll,, 
+,Report,, 
+Backend Development,Login Page,Django (Routing),1 Week
+,Admin Page,,
+,Dashboard,,
+,Register Student,,
+,View Students,,
+,Edit Student,,
+,Add Teacher,,
+,View Teachers,,
+,Edit Teacher,,
+,View + Download Modules,,
+,Attendance Check-in,,
+,View Attendance Roll,,
+,Report,,
+API Development,Dashboard,"Python, Node.js, Postman",1 Week
+,Register Student,,
+,View Students,,
+,Edit Student,,
+,Add Teacher,,
+,View Teachers,,
+,Edit Teacher,,
+,View + Download Modules,,
+,Attendance Check-in,,
+,View Attendance Roll,,
+,Report,,
+Database Administration,,"Azure SQL, MongoDB",1 Day
+Deployment,,Azure  ,1 Day
