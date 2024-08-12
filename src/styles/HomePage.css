@@ -28,7 +28,7 @@ html, body {
     animation-direction: alternate-reverse;
     animation-play-state: running;
     animation-timing-function: ease-in-out;
-    animation-duration: 30s;
+    animation-duration: 20s;
     animation-iteration-count:infinite
 }
 
@@ -36,18 +36,22 @@ html, body {
     0% {
         background-image: url('../assets/robots1.png');
     }
-    25% {
+    20% {
         background-image: url('../assets/robots2.png');
     }
-    50% {
+    40% {
         background-image: url('../assets/robots3.jpeg');
     }
-    75% {
+    60% {
         background-image: url('../assets/industry5.0.jpeg');
     }
-    100% {
+    80% {
         background-image: url('../assets/Robots.png');
     }
+    100% {
+        background-image: url('../assets/robots5.png');
+    }
+
 }
 .text-container {
   display: flex;
@@ -215,7 +219,7 @@ html, body {
     animation-direction: alternate-reverse;
     animation-play-state: running;
     animation-timing-function: ease-in-out;
-    animation-duration: 30s;
+    animation-duration: 20s;
     animation-iteration-count:infinite
 }
 
